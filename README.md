@@ -1,5 +1,5 @@
-### 👋 Hi there!
-I'm Darkhan from Kazakhstan, and i do some design and development. I really enjow to create websites with HTML, CSS and JAVASCRIPT. Currently, my goals is to be the best web developer of my country.
+### 👋 Hi there, I'm Darkhan!
+I'm from Kazakhstan, and i do some design and development. I really enjow to create websites with HTML, CSS and Javascript. Currently, my goals is to be the best web developer of my country.
 
 I'm learning React.Js, and my projects will be here, in github. If you want to see my projects, please go and watch, i left links for all.
 
