@@ -4,6 +4,7 @@ I'm Darkhan from Kazakhstan, and i do some design and development. I really enjo
 I'm learning React.Js, and my projects will be here, in github. If you want to see my projects, please go and watch, i left links for all.
 
 You can contact me via telegram: https://t.me/dacakeee
+I am beginner in development, so i don't have a lot of stars.
 [![Darkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkhanB04)](https://github.com/darkhanb04/github-readme-stats)
 
 
