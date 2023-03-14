@@ -1,10 +1,10 @@
 ### 👋 Hi there, I'm Darkhan!
-I'm from Kazakhstan, and i do some design and development. I really enjoy to create websites with HTML, CSS and Javascript. Currently, my goals is to be the best web developer of my country.
-Learning React.Js, and projects will be here, in github. If you want to see my projects, please go and watch, i left links for all.
+I'm from Kazakhstan, and i do some design and development. I really enjoy to create websites with HTML, CSS and Javascript. Currently, my goal - is to be the best web developer of my country.
+Learning React.Js, and projects will be here, in github. If you want to see my projects, please go and watch, I left links for all.
 
-You can contact me via telegram: https://t.me/dacakeee
+Contact me via telegram: https://t.me/dacakeee
 
-I am beginner in development, so i don't have a lot of stars.
+I am beginner in development, so I don't have a lot of stars.
 
 [![Darkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkhanB04)](https://github.com/darkhanb04/github-readme-stats)
 
