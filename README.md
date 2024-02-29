@@ -4,8 +4,6 @@ Learning React.Js, and projects will be here, in github. If you want to see my p
 
 Contact me via telegram: https://t.me/idrxkn
 
-I am beginner in development, so I don't have a lot of stars.
-
 [![Darkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkhanB04)](https://github.com/darkhanb04/github-readme-stats)
 
 
