@@ -1,13 +1,25 @@
 ### 👋 Hi there, I'm Darkhan!
-I'm from Kazakhstan, and doing some design and development. I really enjoy to create websites with HTML, CSS and Javascript. Currently, my goal - is to be the best web developer of my country.
-Learning React.Js, and projects will be here, in github. If you want to see my projects, please go and watch, I left links for all.
 
-Contact me via telegram: https://t.me/idrxkn
+I'm a passionate **web developer & designer** from **Kazakhstan** 🇰🇿. I love crafting beautiful and functional websites using **HTML, CSS, and JavaScript**, and I'm currently diving deep into **React.js** to take my frontend skills to the next level. My ultimate goal? **To become the best web developer in my country!** 💻🚀
 
-[![Darkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkhanB04)](https://github.com/darkhanb04/github-readme-stats)
+### 🔥 What I Do
+- 🌍 **Web Development:** Creating stunning and responsive websites.
+- 🎨 **UI/UX Design:** Ensuring great user experience and usability.
+- ⚛ **React.js Enthusiast:** Learning and building interactive web applications.
+- 📡 **Tech Explorer:** Always eager to learn new technologies and frameworks.
 
+### 📌 My Projects
+You can check out my projects **right here on GitHub!** I regularly upload new work and open-source contributions. Feel free to explore, fork, and collaborate. 
 
-<!---
-DarkhanB04/DarkhanB04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔗 **[Visit My GitHub Repositories](https://github.com/DarkhanB04?tab=repositories)**
+
+### 📊 GitHub Stats
+[![Darkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkhanB04&show_icons=true&theme=radical)](https://github.com/DarkhanB04/github-readme-stats)
+
+### 💬 Let's Connect!
+I'm always open to collaboration, learning new things, and discussing exciting tech ideas. Feel free to reach out to me!
+
+📩 **Telegram:** [@idrxkn](https://t.me/idrxkn)
+
+---
+✨ _"Code, Create, Innovate!"_ 🚀
