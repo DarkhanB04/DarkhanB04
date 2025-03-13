@@ -21,5 +21,3 @@ I'm always open to collaboration, learning new things, and discussing exciting t
 
 📩 **Telegram:** [@idrxkn](https://t.me/idrxkn)
 
----
-✨ _"Code, Create, Innovate!"_ 🚀
